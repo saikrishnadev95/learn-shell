@@ -1,0 +1,4 @@
+ls
+
+dnf list installed
+
