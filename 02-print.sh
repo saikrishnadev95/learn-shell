@@ -1,19 +1,6 @@
 echo Hello World
 
 # There are 6 colors in total in shell
-# Red         - 31
-# Green       - 32
-# Yellow      - 33
-# Blue        - 34
-# Magenta     - 35
-# Cyan        - 36
-
-# Red         - 41
-# Green       - 42
-# Yellow      - 43
-# Blue        - 44
-# Magenta     - 45
-# Cyan        - 46
 
 # Red         - 51
 # Green       - 52
